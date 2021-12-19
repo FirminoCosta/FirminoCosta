@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lucas! 👋<br>
+<h1 align="center">Hi, I'm Firmino! 👋<br>
 <br></h1>
 <br>
 
