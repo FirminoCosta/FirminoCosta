@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C%23?style=for-the-badge&logo=c%23&logoColor=White" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Csharp?style=for-the-badge&logo=csharp&logoColor=White" />&nbsp;&nbsp;
 </p>
   
 <h4> 🎨 Design</h4>
